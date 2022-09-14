@@ -33,17 +33,17 @@ Graduando em Analise e Desenvolvimento de Sistemas | Desenvolvedor Back-end Jr. 
 
 <a href="#">
      <a href="#">
-      <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <https://img.shields.io/badge/-Python-blue" />
 </a>
 <a href="#">
-      <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <https://img.shields.io/badge/-SQL%20SERVER-orange" />
 </a>
 <a href="#">
-      <img alt="javascript" src="https://img.shields.io/badge/-Python-blue" />
+      <https://img.shields.io/badge/-HTML-green" />
 </a>
 
 <a href="#">
-      <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      <https://img.shields.io/badge/-CSS-yellow" />
 </a>
 
 #### :hammer: Frameworks

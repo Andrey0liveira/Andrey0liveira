@@ -39,7 +39,7 @@ Graduando em Analise e Desenvolvimento de Sistemas | Desenvolvedor Back-end Jr. 
       <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </a>
 <a href="#">
-      <img alt="javascript" src="https://https://img.shields.io/badge/-Python-blue" />
+      <img alt="javascript" src="https://img.shields.io/badge/-Python-blue" />
 </a>
 
 <a href="#">

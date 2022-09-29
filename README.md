@@ -2,7 +2,7 @@
 
 
 <div>
-<a href="https://www.linkedin.com/in/ANDREY SANTOS DE OLIVEIRA-0b2a111ab/">
+<a href="https://www.linkedin.com/in/andrey-santos-de-oliveira-a33448207//">
       <img alt="Andrey Oliveira" src="https://img.shields.io/badge/Linkedin-0078D4?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="mailto:andrey.oliveira@uni9.edu.br">

@@ -12,7 +12,7 @@
 
 <br>
 
-Graduando em Analise e Desenvolvimento de Sistemas | Desenvolvedor Back-end Jr. | Python | Microsoft SQL Server | Javascript | Django | HTML | CSS.
+Desenvolvedor Back-end Jr. | Python | Django | Javascript |  HTML |  CSS | SQL Server
 
 
 ![age](https://img.shields.io/badge/Idade-20-purple)

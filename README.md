@@ -2,11 +2,11 @@
 
 
 <div>
-<a href="https://www.linkedin.com/in/gabriela-lopes-0b2a111ab/">
+<a href="https://www.linkedin.com/in/ANDREY SANTOS DE OLIVEIRA-0b2a111ab/">
       <img alt="Andrey Oliveira" src="https://img.shields.io/badge/Linkedin-0078D4?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="mailto:gabriela111lopes@gmail.com">
-      <img alt="Gabriela Lopes" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:andrey.oliveira@uni9.edu.br">
+      <img alt="Andrey Oliveira" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </div>
 
@@ -22,7 +22,7 @@ Graduando em Analise e Desenvolvimento de Sistemas | Desenvolvedor Back-end Jr. 
 
 - 🔭 Trabalhando atualmente na área de Infraestrutura do TI.
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas.
-- 📫 Contate-me em: 
+- 📫 Contate-me em: andrey.oliveira@uni9.edu.br
 
 ---
 
@@ -33,7 +33,7 @@ Graduando em Analise e Desenvolvimento de Sistemas | Desenvolvedor Back-end Jr. 
 
 <a href="#">
      <a href="#">
-      https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+      <https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </a>
 <a href="#">
       <https://img.shields.io/badge/-SQL%20SERVER-orange" />

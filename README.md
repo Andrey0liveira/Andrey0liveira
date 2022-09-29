@@ -43,16 +43,17 @@ Graduando em Analise e Desenvolvimento de Sistemas | Desenvolvedor Back-end Jr. 
       
 </a>                                                                                                 
                                                                                                   
-<a href="#">
-      <https://img.shields.io/badge/-SQL%20SERVER-orange" />
 </a>
-<a href="#">
-      <https://img.shields.io/badge/-HTML-green" />
-</a>
+ <a href="#">
+      <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+      
+</a>  
 
-<a href="#">
-      <https://img.shields.io/badge/-CSS-yellow" />
-</a>
+ <a href="#">
+      <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+      
+</a>  
+
 
 #### :hammer: Frameworks
 

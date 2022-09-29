@@ -39,7 +39,7 @@ Graduando em Analise e Desenvolvimento de Sistemas | Desenvolvedor Back-end Jr. 
                                                                                                   
 </a>
  <a href="#">
-      <img alt="BootStrap" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+      <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
       
 </a>                                                                                                 
                                                                                                   
@@ -61,7 +61,7 @@ Graduando em Analise e Desenvolvimento de Sistemas | Desenvolvedor Back-end Jr. 
       
 </a>
 <a href="#">
-      <img alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+      <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </a>
 <a href="#">
       <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />

@@ -16,7 +16,7 @@ Graduando em Analise e Desenvolvimento de Sistemas | Desenvolvedor Back-end Jr. 
 
 
 ![age](https://img.shields.io/badge/Idade-20-purple)
-![focus](https://img.shields.io/badge/Foco-Software engineer%-orange)
+![focus](https://img.shields.io/badge/Foco-Software%engineer-orange)
 ![living](https://img.shields.io/badge/País-Brasil-informational)
 
 
